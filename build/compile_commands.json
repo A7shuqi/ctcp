@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zk/project/ctcp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/tcp_server.dir/main.cpp.o -c /home/zk/project/ctcp/main.cpp",
+  "file": "/home/zk/project/ctcp/main.cpp"
+}
+]
